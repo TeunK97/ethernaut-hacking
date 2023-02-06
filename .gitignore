@@ -1,0 +1,14 @@
+# Ape stuff
+.build/
+.cache/
+
+# Python
+.env
+.venv
+.pytest_cache
+__pycache__
+
+hardhat.config.js
+package-lock.json
+package.json
+node_modules/
